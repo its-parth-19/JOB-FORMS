@@ -1,13 +1,26 @@
-body{
-    background-color: black;
+h1{
+    text-align: center;
+}
+.container p{
+    font-size: 20px;
+}
+.details{
+    /* border: 2px solid red; */
+}
+label{
+    display: block;
+    
+}
+.inputdetails{
+    margin-top: 9px;
+}
+.textlabel{
+    /* margin: 3px; */
+    margin: 6px;
+    padding: 6px;
+    margin-bottom: 0px;
 }
 *{
+    background-color: black;
     color: white;
-}
-h2{
-    text-align: center;
-    text-decoration: underline;
-}
-.container{
-    border: 2px solid red;
 }
