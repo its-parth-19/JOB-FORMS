@@ -50,3 +50,17 @@ footer a{
     width: 59px;
     margin-left: 1200px;
 }
+.labels{
+    display: inline;
+}
+.employmentoption{
+    display: inline;
+}
+.label2{
+    
+    /* display: block; */
+    display: inline;
+}
+.otheremployment{
+    margin-left: 197px;
+}
