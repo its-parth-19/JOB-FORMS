@@ -35,3 +35,6 @@ label{
     background-color: black;
     color: white;
 }
+label#choosegender{
+    display: inline;
+}
