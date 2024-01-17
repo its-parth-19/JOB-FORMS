@@ -59,8 +59,11 @@ footer a{
 .label2{
     
     /* display: block; */
-    display: inline;
+    display: inline-block;
 }
 .otheremployment{
     margin-left: 197px;
+}
+span{
+    color: red;
 }
