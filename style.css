@@ -67,3 +67,25 @@ footer a{
 span{
     color: red;
 }
+.heading{
+    /* border: 2px solid red; */
+    padding: 13px;
+}
+footer{
+    /* border: 2px solid green; */
+    margin-top: 25px;
+}
+.button1,.button2{ 
+    border: 2px solid blue;
+    font-size: 16px;
+    padding: 0px;
+    width: 69px;
+}
+.button2{
+    position: absolute;
+    right: 25px;
+}
+.button1{
+    position: absolute;
+    left:25px
+}
