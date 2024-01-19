@@ -97,9 +97,27 @@ footer a:hover{
     font-size: 30px;
 }
 .container3{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     background-color: black;
 }
 .main{
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
+    margin-top: 30px;
+}
+.main p{
+    font-size: 18px;
+}
+.submission{
+    border: 2px solid yellow;
+    text-align: center;
+    margin-top: 134px;
+    width: 6%;
+    margin: 134px auto;
+    /* cursor: pointer; */
+    border-radius: 10px;
+    /* color: green; */
+}
+.finalsub{
+    cursor: pointer;
+    color: green;
 }
