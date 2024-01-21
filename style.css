@@ -76,7 +76,7 @@ footer{
     margin-top: 25px;
 }
 .button1,.button2{ 
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     font-size: 16px;
     padding: 0px;
     width: 69px;
@@ -137,4 +137,8 @@ footer a:hover{
     font-size: 17px;
     border-radius: 11px;
 
+}
+.button1 input,.button2 input{
+    border: 2px solid green;
+    border-radius: 11px;
 }
