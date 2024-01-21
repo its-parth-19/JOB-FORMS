@@ -39,12 +39,12 @@ label#choosegender{
     display: inline;
 }
 footer a{
-    color:green;
+    color:rgb(56, 211, 56);
     text-align: center;
     text-decoration: none;
-    border: 2px solid brown;
+    /* border: 2px solid brown; */
     
-    border-radius: 25px;
+    border-radius: 56px;
     padding: 8px;
     display: block;
     width: 59px;
@@ -92,9 +92,9 @@ footer{
 footer a:hover{
     text-decoration: underline;
     border: none;
-    background-color: orange;
+    /* background-color: orange; */
     color: yellow;
-    font-size: 30px;
+    font-size: 20px;
 }
 .container3{
     /* border: 2px solid red; */
@@ -141,4 +141,7 @@ footer a:hover{
 .button1 input,.button2 input{
     border: 2px solid green;
     border-radius: 11px;
+    font-size: 17px;
+    color: yellow;
+    background-color: rgb(124, 150, 199);
 }
